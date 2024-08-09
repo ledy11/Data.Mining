@@ -1,4 +1,4 @@
-**Crime in Los Angeles, 2020-2023**
+**CRIME IN LOS ANGELES, 2020-2023**
 
 **Team members:** Ledy De La Rosa 
 
